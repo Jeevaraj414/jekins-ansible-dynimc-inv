@@ -4,7 +4,7 @@ aws_access_key: AKIAURTQ5FSM5MEMZND2
 aws_secret_key: 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
 
 regions:
-  - ap-southeast-1
+  - ap-south-1
 
 filters:
   instance-state-name : running
